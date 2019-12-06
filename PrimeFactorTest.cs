@@ -16,7 +16,6 @@ namespace PrimeFactor_TDD
             foreach (var n in numbers)
             {
                 newNumbers.Add(n);
-
             }
             return newNumbers;
         }
